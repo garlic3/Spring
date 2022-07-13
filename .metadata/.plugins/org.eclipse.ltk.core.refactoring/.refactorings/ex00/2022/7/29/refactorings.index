@@ -1,3 +1,12 @@
 1657686872898	Delete element
 1657689985685	Delete element
 1657690840249	Rename package 'com.example.ex00'
+1657695832730	Rename type 'JDBC_Tests'
+1657696840206	Move compilation unit
+1657696863737	Copy package
+1657696914819	Delete element
+1657697016960	Rename package 'ex00.example.ex00.mapper'
+1657697136135	Rename package 'ex00.example.ex00.mapper'
+1657697228221	Rename resource 'mapper'
+1657697235241	Rename resource 'ex01'
+1657697386382	Rename resource 'TImeMapperxml.xml'

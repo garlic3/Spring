@@ -1,3 +1,5 @@
 INDEX VERSION 1.131
+/Users/minmin/springFramework_sms/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2600049792.index
+/ex01/src/main/java
 /Users/minmin/springFramework_sms/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2485023825.index
 /ex00/src/main/java
